@@ -1,6 +1,8 @@
 # Chat App
 ### Challenge: I recreated my chat app based of Apple IOS' "dark mode" and added a hidden hover effect on submitted messages.
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 ## Getting Started
 ### 1: Clone the repo to your computer
 ### 2: Drag the file into your code reader of choice.
@@ -9,8 +11,12 @@
 ### 5: Open your browser of choice and type in localhost: followed by the port number given in the terminal window
 ### 6: Send messages and hover over them!
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 ## Prerequisites
 ### -Node
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Built With
 ### -Node
@@ -18,6 +24,8 @@
 ### -Socket IO
 ### -JSON
 ### -JS
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 ## Authors
 ### In class file - Trevor
